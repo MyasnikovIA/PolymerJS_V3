@@ -1,0 +1,18 @@
+{
+  "name": "polymerapp",
+  "version": "1.0.0",
+  "description": "",
+  "flat": true,
+  "main": "components/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "“MyasnikovIA <“Miacom@mail.ru”> (“https://github.com/Myasnikovia”)",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/iron-ajax": "^3.0.0-pre.21",
+    "@polymer/polymer": "^3.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.2"
+  }
+}
